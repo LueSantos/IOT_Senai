@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+} 
+
+.box-shadow{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.05), 
+    0 4px 8px 0 rgba(0,0,0,.05);
+}
+
+.navbar  {
+  
+  background-color:rgb(48, 174, 174);
+  
+}
+
+.conheca {
+  background-color: #eaeee5;
+  color: black;
+}
+
+.parceiros {
+  background-color: #eaeee5;
+  color: black;
+}
+
+.servicos {
+  background-color:#f5fce5c9;
+}
+
+/* .footer{
+  background-color:rgb(48, 174, 174);
+  color: antiquewhite;
+} */
+/* 
+.text_footer {
+  padding-top: 6px;
+  color: black;
+} */
+
+.p{
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+  padding: 50px;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 20px;
+ 
+}
+
+.btn{
+  margin-right: 25px;
+}
+
+.img_logo{
+
+  margin-left: 15px;
+}
+
+.btn_entrar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+
+.img_login{
+  background-image: none;
+}
